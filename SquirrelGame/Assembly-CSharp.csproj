@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GoToLevel3.cs" />
     <Compile Include="Assets\Scripts\PauseMenu.cs" />
-    <Compile Include="Assets\DarkenSky.cs" />
     <Compile Include="Assets\Scripts\DestroyCar.cs" />
     <Compile Include="Assets\Scripts\AmbientSound.cs" />
     <Compile Include="Assets\Scripts\KillPlayer.cs" />
@@ -70,7 +69,7 @@
     <Compile Include="Assets\Scripts\ObjectPush.cs" />
     <Compile Include="Assets\Scripts\RatAI.cs" />
     <Compile Include="Assets\Scripts\CarMove.cs" />
-    <Compile Include="Assets\YGS Low Poly Hand Painted Rat\RatAnimator.cs" />
+    <Compile Include="Assets\AssetStore\YGS Low Poly Hand Painted Rat\RatAnimator.cs" />
     <Compile Include="Assets\Scripts\DevCommands.cs" />
     <Compile Include="Assets\Scripts\SpawnPlayer.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
@@ -81,7 +80,6 @@
     <Compile Include="Assets\Scripts\ObjectPickup.cs" />
     <Compile Include="Assets\Scripts\CarSpawnPoint.cs" />
     <Compile Include="Assets\Scripts\ThirdPersonMovement.cs" />
-    <Compile Include="Assets\WhatLevel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -100,7 +98,7 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\Squirrel Low Poly Model\Model_art\Shaders\Lightmap-Bumped-Alphacutoff-doublesides.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\YGS Low Poly Hand Painted Rat\Rat Animations.txt" />
+    <None Include="Assets\AssetStore\YGS Low Poly Hand Painted Rat\Rat Animations.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\AddOns\Mg3D_Hats\Hats_ReadMe.txt" />

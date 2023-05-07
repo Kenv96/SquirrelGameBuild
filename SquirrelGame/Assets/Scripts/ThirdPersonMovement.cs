@@ -136,6 +136,7 @@ public class ThirdPersonMovement : MonoBehaviour
     {
         if (collision.gameObject.tag == "Car")
         {
+            Cursor.visible = true;
             Destroy(gameObject);
             SceneManager.LoadScene("Lose");
         }

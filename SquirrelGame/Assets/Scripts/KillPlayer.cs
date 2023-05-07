@@ -20,6 +20,7 @@ public class KillPlayer : MonoBehaviour
     {
         if (collision.gameObject.tag == "Car")
         {
+
             Destroy(gameObject);
         }
     }

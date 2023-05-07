@@ -18,7 +18,7 @@ public class GameStart : MonoBehaviour
         {
             thingstodisable[i].SetActive(false);
         }
-
+        Cursor.visible = false;
         PauseMenu.isPaused= false;
         Time.timeScale = 1.0f;
     }

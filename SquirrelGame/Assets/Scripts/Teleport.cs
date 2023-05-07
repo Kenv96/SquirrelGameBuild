@@ -61,6 +61,7 @@ public class Teleport : MonoBehaviour
         }
         if (isexit == true)
         {
+            Cursor.visible = true;
             SceneManager.LoadScene("Main Menu");
         }
         else
